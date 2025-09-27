@@ -173,5 +173,5 @@ services:
     ports:
       - "5000:5000"
     environment:
-      - ODDS_API_KEY=your_api_key_here
+      - ODDS_API_KEY=abf923d6427c4ac42670f27fd74827ae
 */
